@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+
+    <tocitem text="Viajes Parkalia" target="introduccion"/>
+    <tocitem text="Hacer una reserva" >
+        <tocitem text="Reservar entrada" target="entradas"/>
+        <tocitem text="Reservar alojamiento" target="alojamientos"/>
+        <tocitem text="Reservar paquete" target="paquetes"/>
+    </tocitem>
+    <tocitem text="Modificar reserva" target="modificar"/>
+    <tocitem text="Formalizar reserva" target="formalizar"/>
+
+</toc>
